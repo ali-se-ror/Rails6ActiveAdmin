@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails application with the support of Active Admin configuration support and the following features
 
-Things you may want to cover:
+* rolify
+* ActiveAdmin
+* Bootstrap
+* Tailwind
 
-* Ruby version
+# Application Versions
+* Ruby '3.0.0'
+* Rails '~> 6.1.3', '>= 6.1.3.1'
+* Jquery "^3.6.0"
+* Bootstrap "^5.0.1"
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
